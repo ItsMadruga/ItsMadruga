@@ -1,6 +1,6 @@
 ### Ola rapaziadinha do tiktok 👋
 
-• `😒` Vou postar minhas bases por aqui também
+• `🙃` Vou postar minhas bases por aqui também
 
 <div align="center">
 <a href="https://github.com/ItsMadruga">
