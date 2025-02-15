@@ -4,5 +4,5 @@
 • `🇹🇷`
 
 <div align="center">
- <a href="https://youtube.com/c/ItsMadrugaModz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?s"></a>
+ <a href="https://buymeacoffee.com/kaioreis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
