@@ -1,4 +1,4 @@
-### Ola rapaziadinha do tiktok 👋
+### Ola 👋
 
 • `🧸`<br>
 • `🇹🇷`
